@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Página de Contatos </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  
+  <nav class="menu-principal">
+    <ul>
+        <li><a href="pagina-inicio.html">Início </a></li>
+        <li><a href="unihome.html">UniHome</a></li>
+        <li><a href="renaebrasil.html">RENAEBrasil</a></li>
+        <li><a href="contatos.html">Contatos</a></li>
+    </ul>
+
+  </nav>
+  <section class="busca">
+    <form>
+      <select name="filtro">
+        <option value="todos">Todos</option>
+        <option value="moradias">Moradias</option>
+        <option value="locais">Locais</option>
+        <option value="outros">Outros</option>
+    </select>
+        <input type="search" placeholder="Digite sua busca...">
+        <button type="submit">Buscar</button>
+    </form>
+</section>
+
+
+<!-- seção de trabalho -->
+  <selection id="Trabalhe Conosco"> 
+    <h2>Trabalhe Conosco</h2>
+    <p>Preencha o formulário abaixo com as suas Informações:</p>
+    <label for="nome"> Nome: </label>
+    <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
+    <br>
+    <button type="submit">    Enviar   </button>
+  </selection>
+
+  <section class="file-upload">
+    <h2 class="section-title">Anexe o seu currículo em formato PDF:</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="file">Selecione um arquivo para enviar:</label>
+        <input type="file" id="file" name="file">
+        <br>
+        <input type="submit" value="Enviar">
+    </form>
+</section>
+
+<br><br>
+
+<!-- Contato -->
+<section id="contato">
+    <h2>ContatoFale conosco! </h2>
+    <form>
+      <label for="nome">Nome: </label> <input type="text" id="nome" name="nome"> 
+      <button type="submit"> Enviar </button> <br>
+      <label for="email">E-mail:</label> <input type="email" id="email" name="email">
+      <button type="submit"> Enviar </button> <br>
+      <label for="mensagem">Mensagem:</label> <textarea id="mensagem" name="mensagem"></textarea> 
+      <button type="submit"> Enviar </button> <br>
+
+<br><br><br>
+
+    <!-- rodapé -->
+    <footer>
+        <section>
+          <h2>Contato</h2>
+          <p>UniHome Network</p>
+          <p>Rede Nacional de Apoio ao Estudante Brasileiro - RENAEBrasil</p>
+          <p>unihomebrasil@gmail.com</p>
+          <p>CNPJ: 000089465666</p>
+          <p>Rua Airton Senna, 290 - Porto Alegre - RS</p>
+          <p>CEP: 91234-567</p>
+        </section>
+      
+      
+       <!-- Copyright -->
+    <footer>
+      <div class="container">
+          <p>&copy; 2024 Projeto Casa Acadêmica. Todos os direitos reservados.</p>
+          <style>
+            .container{
+              text-align: center;
+            }
+          </style>
+      </div>
+  </footer>
+
+</body>
+
+</html>
