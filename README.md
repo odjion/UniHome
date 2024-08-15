@@ -16,9 +16,9 @@ Dessa forma, UniHome é uma plataforma pensada especialmente para estudantes uni
 ##### Minha história (o autor)
 Durante meus anos de universidade, enfrentei inúmeros desafios, incluindo dificuldades financeiras, falta de tempo devido ao trabalho de meio período e problemas logísticos. Mas em 2023/2, finalmente realizei meu sonho de me mudar da região metropolitana para o centro de Porto Alegre, onde poderia estudar e morar em uma residência estudantil. Essa mudança abriu novas oportunidades para mim, me conectando com pessoas da comunidade universitária, professores, pesquisadores e outros alunos. No início do ano de 2024, consolidei o networking com os professores que orientam minhas produções e projetos, aumentando consideralmente a minha conexão com servidores do campus, contato com outros campus do IFRS, formação continuada em cultura digital, inteligência artificial e gamificação para professores da educação básica, criação e participação em projetos de pesquisa, projetos de iniciação científica e tecnológica, projetos de design, de robótica, etc.
 
-Esse projeto me fez explorar talentos e habilidades para criar e construir um grande esboço do sucesso que pode se tornar esse projeto futuramente.
-Agredeço imensamente ao professor Evandro que confiou em mim, bem antes de eu entrar no curso quando eu só brincava de ´Hello World´ nos computadores da recepção do IFRS -Porto Alegre, que me motivou a montar do 0 um PC só pra poder estudar e trabalhar codando e também me fez virar um grande intusiasta do Design. Ah, e aceitou esse projeto :)
-É mais um grande passo em direção à minha carreira na área do Desenvolvimento Web. 
+##### Esse projeto me fez explorar talentos e habilidades para criar e construir um grande esboço do sucesso que pode se tornar esse projeto futuramente. Agredeço imensamente ao professor Evandro que confiou em mim, bem antes de eu entrar no curso quando eu só brincava de ´Hello World´ nos computadores da recepção do IFRS -Porto Alegre, que me motivou a montar do 0 um PC só pra poder estudar e trabalhar codando e também me fez virar um grande intusiasta do Design. Ah, além do mais ele aceitou esse projeto :)
+##### É mais um grande passo em direção à minha carreira na área do Desenvolvimento Web. 
+
 ----------------------------------------------------------------------------------------
 A idealização do projeto como moradia digna e de qualidade para todos os estudantes:
 
