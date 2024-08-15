@@ -11,11 +11,11 @@ Assim como a CEUPA, existe uma grande planilha de Excel, que hoje seria o "canal
 O projeto se consolida oficalmente com protótipo de um site que comporta serviços de conexão entre estudantes brasileiros e estrangeiros de nível superior de ensino com locais que oferecem moradia durante o período permanência no sistema educacional de ensino, indendentte do tipo de vínculo (graduação, pós graduação, mestrado, doutorado, pós doc, etc), prefencialmente pensado em estudantes em situação de vulnerabilidade socioeconomica e/ou que enfrentrem dificuldades logísticas para acesso ao campus e demais serviços ofertados pela universidade.
 Dessa forma, UniHome é uma plataforma pensada especialmente para estudantes universitários, que os auxilia a encontrar opções de moradia  gratuita ou de baixo custo, que sejam vinculadas ou não às instituições de ensino público ou privado.
 
-
 ##### A marca
 UniHome, é um nome de marca curto e memorável. Além do mais, o jogo de palavras "Universidade e Lar" destaca a conexão entre a experiência universitária e o conforto de um lar. Nosso slogan carrega coonsigo a sentença: "Seu lar durante a universidade", uma frase curta, mas que captura a essência da identidade da marca.
 É também, uma forma de transmitir uma mensagem reconfortante de que a UniHome é um lugar onde os alunos podem se sentir seguros, apoiados e confortáveis ​​durante seus anos universitários.
-------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------
 A idealização do projeto como moradia digna e de qualidade para todos os estudantes:
 
 ![banner01](https://github.com/user-attachments/assets/97114756-0643-4b87-9f6c-790dfaaed886)
