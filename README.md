@@ -1,6 +1,11 @@
-# UniHome1
+## UniHome1
 
-## Idealização do projeto do site que comporta serviços de conexão entre estudantes brasileiros e estrangeiros de nível superior de ensino com locais que oferecem moradia durante o período permanência no sistema educacional de ensino, indendentte do tipo de vínculo (graduação, pós graduação, mestrado, doutorado, pós doc, etc), prefencialmente pensado em estudantes em situação de vulnerabilidade socioeconomica e/ou que enfrentrem dificuldades logísticas para acesso ao campus e demais serviços ofertados pela universidade.
+# Esse projeto se baseia em uma necessidade que enfrentei durante os anos em que buscava acessar o ensino superior, por conta de diversas dificuldades como renda, falta de tempo por conta do trabalho paralelo aos estudos para me manter na universidade e também questões de logística e transporte. Em 2023/2, realizei um grande sonho de me mudar do interior da região metropolitana para o centro de Porto Alegre, para estudar e viver em uma moradia estudantil. Dali pra frente, só aumentaram as minhas oportunidades e o acesso à diversos serviços que me mantém concetado com pessoas da casa universitária, professores universitários, graduando, bolsistas, conexão com servidores do campus, criação e participação em projetos de pesquisa, projetos de iniciação científica e tecnológica, projetos de design, de robótica, contato com outros campus do IFRS.
+
+# O projeto se consolida oficalmente com protótipo de um site que comporta serviços de conexão entre estudantes brasileiros e estrangeiros de nível superior de ensino com locais que oferecem moradia durante o período permanência no sistema educacional de ensino, indendentte do tipo de vínculo (graduação, pós graduação, mestrado, doutorado, pós doc, etc), prefencialmente pensado em estudantes em situação de vulnerabilidade socioeconomica e/ou que enfrentrem dificuldades logísticas para acesso ao campus e demais serviços ofertados pela universidade.
+
+# UniHome, é um nome de marca curto e memorável. Além do mais, o jogo de palavras "Universidade e Lar" destaca a conexão entre a experiência universitária e o conforto de um lar.
+# O slogan da marca carrega coonsigo a sentença: "Seu lar durante a universidade", uam frase curta, mas que captura a essência da identidade da marca. É uma mensagem reconfortante de que a UniHome é um lugar onde os alunos podem se sentir seguros, apoiados e confortáveis ​​durante seus anos universitários.
 
 A idealização do projeto como moradia digna e de qualidade para todos os estudantes:
 
