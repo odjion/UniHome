@@ -1,32 +1,22 @@
 ## UniHome1
 
 ##### A marca
-UniHome, é um nome de marca curto e memorável. Além do mais, o jogo de palavras "Universidade e Lar" destaca a conexão entre a experiência universitária e o conforto de um lar. Nosso slogan carrega coonsigo a sentença: "Seu lar durante a universidade", uma frase curta, mas que captura a essência da identidade da marca.
-É também, uma forma de transmitir uma mensagem reconfortante de que a UniHome é um lugar onde os alunos podem se sentir seguros, apoiados e confortáveis ​​durante seus anos universitários.
+UniHome, é um nome de marca escolhido para esse projeto, com o objetivo de  jogo de palavras "Universidade e Lar" para destacar a conexão entre a experiência universitária e o conforto de um lar. O slogan carrega coonsigo a sentença: "Seu lar durante a universidade", uma frase curta, mas que captura a essência da identidade da marca. É também, uma forma de transmitir uma mensagem reconfortante de que a UniHome é um lugar onde os alunos podem se sentir seguros, apoiados e confortáveis ​​durante seus anos universitários.
 
 ##### O projeto
-Esse projeto se baseia em minhas próprias experiências e dificuldades durante o período como estudante universitário, além da inspiração que surgiu junto com a resolução de um problema, pois na moradia que resido atualmente, somos uma insituição privada, autogerida, sem fins lucatrivos e que presta assistência social. Há um Estatuto e um Regimento Interno, bem como reuniões e Assembéia Geral para tomada de decisão e parecer em relação aos moradores das 3 residências que compõe a CEUPA (Casa Estudantil Universitária de Porto Alegre). 
-Ainda, possuimos algumas comissões permanentes, na gestão de 2024, sou o Coordenador da CPPAS (Comissão Permanente de Partrimônio Assitência Social). Portanto, participo de eventos, congressos, reuniões, entre outras demandas, fora do ambiente da Instituição também, pois a CEUPA é vinculada à FASQ, CNAS, CORAS, CMAS, etc.
-Assim como a CEUPA, existe uma grande planilha de Excel, que hoje seria o "canal de informação", onde temos a relação de todas as residências estudantis do Brasil interiro. Essa planilha chegou até mim, que como um grande problemsolver, resolvi colocar todos esses dados no projeto da discipla de CPW (Construções de Páginas de Web). Assim surgiu, oficialmente o site da UniHome. 
-
-O projeto se consolida oficalmente com o protótipo de um site que comporta serviços de informações e conexão entre estudantes com locais que oferecem moradia durante o período permanência no sistema educacional de ensino, indendentte do tipo de vínculo (graduação, mestrado, doutorado, etc), mas prefencialmente pensado para estudantes em situação de vulnerabilidade socioeconomica e/ou que enfrentrem dificuldades logísticas para acesso ao campus e demais serviços ofertados pela universidade.
-Dessa forma, UniHome é uma plataforma pensada especialmente para estudantes universitários brasileiros e estrangeiros, que os auxilia a encontrar opções de moradia  gratuita ou de baixo custo, que sejam vinculadas ou não às instituições de ensino público ou privado. 
+Esse projeto se baseia em minhas próprias experiências e dificuldades durante o período como estudante universitário, além da inspiração que surgiu junto com a resolução de um problema, pois na moradia que resido atualmente, somos uma insituição privada, autogerida, sem fins lucatrivos e que presta assistência social. Há um Estatuto e um Regimento Interno, bem como reuniões e Assembéia Geral para tomada de decisão e parecer em relação aos moradores das 3 residências que compõe a CEUPA (Casa Estudantil Universitária de Porto Alegre). O projeto se consolida oficalmente com o protótipo de um site que comporta serviços de informações e conexão entre estudantes com locais que oferecem moradia durante o período permanência no sistema educacional de ensino, indendentte do tipo de vínculo (graduação, mestrado, doutorado, etc), mas prefencialmente pensado para estudantes em situação de vulnerabilidade socioeconomica e/ou que enfrentrem dificuldades logísticas para acesso ao campus e demais serviços ofertados pela universidade.mDessa forma, UniHome é uma plataforma pensada especialmente para estudantes universitários brasileiros e estrangeiros, que os auxilia a encontrar opções de moradia  gratuita ou de baixo custo, que sejam vinculadas ou não às instituições de ensino público ou privado. 
 
 
 ##### Minha história (o autor)
 Durante meus anos de universidade, enfrentei inúmeros desafios, incluindo dificuldades financeiras, falta de tempo devido ao trabalho de meio período e problemas logísticos. Mas em 2023/2, finalmente realizei meu sonho de me mudar da região metropolitana para o centro de Porto Alegre, onde poderia estudar e morar em uma residência estudantil. Essa mudança abriu novas oportunidades para mim, me conectando com pessoas da comunidade universitária, professores, pesquisadores e outros alunos. No início do ano de 2024, consolidei o networking com os professores que orientam minhas produções e projetos, aumentando consideralmente a minha conexão com servidores do campus, contato com outros campus do IFRS, formação continuada em cultura digital, inteligência artificial e gamificação para professores da educação básica, criação e participação em projetos de pesquisa, projetos de iniciação científica e tecnológica, projetos de design, de robótica, etc.
 
-##### Esse projeto me fez explorar talentos e habilidades para criar e construir um grande esboço do sucesso que pode se tornar esse projeto futuramente. Agredeço imensamente ao professor Evandro que confiou em mim, bem antes de eu entrar no curso quando eu só brincava de ´Hello World´ nos computadores da recepção do IFRS -Porto Alegre, que me motivou a montar do 0 um PC só pra poder estudar e trabalhar codando e também me fez virar um grande intusiasta do Design. Ah, além do mais ele aceitou esse projeto :)
-##### É mais um grande passo em direção à minha carreira na área do Desenvolvimento Web. 
 
 ----------------------------------------------------------------------------------------
 A idealização do projeto como moradia digna e de qualidade para todos os estudantes:
 
 ![banner01](https://github.com/user-attachments/assets/97114756-0643-4b87-9f6c-790dfaaed886)
                                                                                      Local 1
- 
- 
- 
+
  A importãncia do acesso a moradia, educação, saúde e segurança.
  São os mecanismos essencias que garantem o direito a vida, a dignidade e principlamnete
  a permanência estudantil de alunos brasileiros e estrangeiros, 
